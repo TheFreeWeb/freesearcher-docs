@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Install](getting-started/quickstart.md)
-* [Community Edition](getting-started/publish-your-docs/README.md)
+* [Community Edition](getting-started/publish-your-docs.md)
   * [Coming Soon!](getting-started/publish-your-docs/coming-soon.md)
 
 ## Basics
