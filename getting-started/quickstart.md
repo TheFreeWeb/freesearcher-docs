@@ -1,23 +1,16 @@
-# Quickstart
+# Install
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
-
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Installing the app is pretty simple. Once you have everything set up, usage is easy!
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
+We offer support for Windows, Linux, Chrome OS and even a crossplatform Python version!
 {% endhint %}
 
-### Import
+### Windows
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+Prequisites:
 
-<div data-full-width="false">
+* Powershell (Usually pre-installed)
+* cURL (Usually pre-installed)
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+To install for windows, simply download the latest release from [Github](https://github.com/TheFreeWeb/FreeSearcher/releases), and extract into a folder. Simply run 'run.ps1' to start the app. To update, currently, you must extract the latest release into the same folder, to replace the old ones.&#x20;
